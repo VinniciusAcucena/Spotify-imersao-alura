@@ -9,3 +9,12 @@ O desafio é criar uma página interativa do spotify
 - HTML
 - CSS
 - JavaScript
+
+
+## O que foi estudado:
+
+- Responsividade
+- Introdução ao framework React
+- Criação de componentes no React
+- Consumo de API
+  
